@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+   /* background-image: url(images/trial\ 2.jpg);*/
+}
+li{
+    display:inline;
+    padding:30px;
+}
+
+div{
+    background-color: beige;
+    width: 250px;
+    text-align: center;
+    height: 250px;
+    border-radius: 30px;
+    border:2px solid #eee;
+    float: left;
+    margin: 20px;
+}
+
+.form{
+    background-color: #eee;
+    border:3px solid grey;
+    text-align: left;
+    margin:;
+    margin-left: 500px;
+    height:300px;
+    padding:30px;
+    width: 400px;
+    padding-top:80px;
+}
+h1{
+    text-align: center;
+    color:blueviolet;
+}
+
+.asterix{
+    color:red;
+}
